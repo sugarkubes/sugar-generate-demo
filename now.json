@@ -1,0 +1,9 @@
+
+{
+  "version": 2,
+  "alias": "my-aliased-nextjs-project",
+  "name": "my-nextjs-project",
+  "builds": [
+    { "src": "next.config.js", "use": "@now/next" }
+  ]
+}
